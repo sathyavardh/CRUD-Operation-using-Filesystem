@@ -1,0 +1,90 @@
+{
+  "tickets": [
+    {
+      "title": "lap Issue",
+      "description": "Not Working",
+      "team": "IT Team",
+      "status": "resolved",
+      "assignee": "sam",
+      "reporter": "deva",
+      "id": 3
+    },
+    {
+      "title": "internet Issue",
+      "description": "Not Working",
+      "team": "IT Team",
+      "status": "resolved",
+      "assignee": "ravi",
+      "reporter": "devaraj",
+      "id": 4
+    }
+  ],
+  "teams": [
+    {
+      "name": "IT Team",
+      "members": [
+        "Sathya",
+        "Vijay"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Dev Team",
+      "members": [
+        "Balaji",
+        "Ram"
+      ],
+      "id": 2
+    },
+    {
+      "name": "sampl",
+      "members": [
+        "raesh",
+        "rakesh"
+      ],
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Venkat",
+      "lastName": "Nataraj",
+      "emailId": "venkat@gmail.com",
+      "phno": "76154563510",
+      "employeeId": 23,
+      "designation": "Full-Stack",
+      "teamId": 25,
+      "id": 1
+    },
+    {
+      "firstName": "Venkat",
+      "lastName": "Nataraj",
+      "emailId": "venkaet@gmail.com",
+      "phno": "76154453510",
+      "employeeId": 27,
+      "designation": "Full-Stack",
+      "teamId": 25,
+      "id": 2
+    },
+    {
+      "firstName": "Sathyavardhan",
+      "lastName": "K",
+      "emailId": "sathya@gmail.com",
+      "phno": "74784453510",
+      "employeeId": 28,
+      "designation": "Senior Full-Stack",
+      "teamId": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Sathyavardhan",
+      "lastName": "K",
+      "emailId": "sath@gmail.com",
+      "phno": "7478445350",
+      "employeeId": 19,
+      "designation": "developer",
+      "teamId": 1,
+      "id": 4
+    }
+  ]
+}
